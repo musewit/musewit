@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @musewit
+- 👀 I'm focuing on learning CS and hope to make progress.
+- 🌱 I'm sharing some lessons about CS.
